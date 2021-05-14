@@ -5,4 +5,4 @@ set worker=DogeMiner
 set referral=5fas-x32g
 
 REM - This is the command to start lolMiner with our variable substitutions 
-"unmineable-1.28a/lolMiner.exe" --algo ETHASH --pool %url% --user DOGE:%address%.%worker%#%referral% --ethstratum ETHPROXY
+"unmineable/lolMiner.exe" --algo ETHASH --pool %url% --user DOGE:%address%.%worker%#%referral% --ethstratum ETHPROXY
