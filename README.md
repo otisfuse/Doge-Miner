@@ -3,9 +3,9 @@ It's time to start mining for Doge - the currency of the future! This project pr
 
 ## Step 1: Download the zip from this repository
 
-## Step 2: Download LolMiner and extract to LolMiner directory
+## Step 2: Extract the zip and edit the batch file with your DogeCoin Wallet address
 
-## Step 3: Extract the zip and edit the batch file with your DogeCoin Wallet address
+## Step 3: Download LolMiner and extract to miner directory
 
 ## Step 4: Run the bat file
 
