@@ -10,6 +10,7 @@ It's time to start mining for Doge - the currency of the future! This project pr
 Extract the Doge-Miner zip to your preferred location and then add your DogeCoin wallet address into the bat file. Don't have a wallet? No problem, get one online at [Doge Chain]:(https://my.dogechain.info/#/overview) or download your own from the [Dogecoin Website]:(https://dogecoin.com/).
 
 You can use any text editor like Notepad to edit the bat file:
+
 ![Bat Edit Example](https://github.com/otisfuse/Doge-Miner/blob/main/img/edit-button.png)
 
 Just replace the address in the bat file with your address:
